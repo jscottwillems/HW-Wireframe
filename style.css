@@ -1,0 +1,55 @@
+body {
+    background: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+
+
+header, nav, footer {
+    background: #ebebeb;
+    color: #777;
+    margin: 10px 45.1px 10px 45.1px;
+    width: 925px;
+    height: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+aside {
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    width: 410px;
+    height: 300px;
+    float: right;
+    margin: 10px 45.1px 10px 0px;
+    padding: 30px 0px 0px 0px
+}
+
+section {
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    width: 520px;
+    height: 300px;
+    float: left;
+    margin: 10px 10px 10px 45.1px;
+}
+
+article {
+    background: #777;
+    color: #ebebeb;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+#headings {
+    display: inline;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+}
